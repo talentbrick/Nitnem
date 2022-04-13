@@ -9,7 +9,7 @@ In this era of IT, information is what precisely keeps the world about and going
 
 At TalentBrick, user privacy is our priority, Hence We do not collect any kind of user data at all, The app need not to collect user data for statistical purposes or any. Also, we believe knowledge shouldn't be capitalised upon and hence DON'T RUN ADS on Nitnem Sahib.
 
-We use Tiny DB for storing user preferences. Which stores all the preferences in your device only and we do not collect anything as stated above.
+We use Tiny Database which is an app-inventor component that is used for storing user preferences. Which stores all the preferences in your device only and we do not collect anything as stated above.
 
 ### Your Consent
 By using our application, you consent to our application's privacy policy.
